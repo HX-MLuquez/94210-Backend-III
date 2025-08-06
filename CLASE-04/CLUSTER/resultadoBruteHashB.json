@@ -1,0 +1,252 @@
+{
+  "aggregate": {
+    "counters": {
+      "vusers.created_by_name.Brute hash attack simulation": 50,
+      "vusers.created": 50,
+      "http.requests": 50,
+      "plugins.metrics-by-endpoint./engineering/brute-hash.errors.ETIMEDOUT": 48,
+      "errors.ETIMEDOUT": 48,
+      "vusers.failed": 48,
+      "http.codes.200": 2,
+      "http.responses": 2,
+      "http.downloaded_bytes": 148,
+      "plugins.metrics-by-endpoint./engineering/brute-hash.codes.200": 2,
+      "vusers.completed": 2
+    },
+    "rates": {
+      "http.request_rate": 5
+    },
+    "firstCounterAt": 1754433365251,
+    "firstHistogramAt": 1754433375126,
+    "lastCounterAt": 1754433384521,
+    "lastHistogramAt": 1754433375277,
+    "firstMetricAt": 1754433365251,
+    "lastMetricAt": 1754433384521,
+    "period": 1754433380000,
+    "summaries": {
+      "http.response_time": {
+        "min": 9656,
+        "max": 9846,
+        "count": 2,
+        "mean": 9751,
+        "p50": 9607.1,
+        "median": 9607.1,
+        "p75": 9607.1,
+        "p90": 9607.1,
+        "p95": 9607.1,
+        "p99": 9607.1,
+        "p999": 9607.1
+      },
+      "plugins.metrics-by-endpoint.response_time./engineering/brute-hash": {
+        "min": 9656,
+        "max": 9846,
+        "count": 2,
+        "mean": 9751,
+        "p50": 9607.1,
+        "median": 9607.1,
+        "p75": 9607.1,
+        "p90": 9607.1,
+        "p95": 9607.1,
+        "p99": 9607.1,
+        "p999": 9607.1
+      },
+      "vusers.session_length": {
+        "min": 9702.1,
+        "max": 9900.6,
+        "count": 2,
+        "mean": 9801.3,
+        "p50": 9607.1,
+        "median": 9607.1,
+        "p75": 9607.1,
+        "p90": 9607.1,
+        "p95": 9607.1,
+        "p99": 9607.1,
+        "p999": 9607.1
+      }
+    },
+    "histograms": {
+      "http.response_time": {
+        "min": 9656,
+        "max": 9846,
+        "count": 2,
+        "mean": 9751,
+        "p50": 9607.1,
+        "median": 9607.1,
+        "p75": 9607.1,
+        "p90": 9607.1,
+        "p95": 9607.1,
+        "p99": 9607.1,
+        "p999": 9607.1
+      },
+      "plugins.metrics-by-endpoint.response_time./engineering/brute-hash": {
+        "min": 9656,
+        "max": 9846,
+        "count": 2,
+        "mean": 9751,
+        "p50": 9607.1,
+        "median": 9607.1,
+        "p75": 9607.1,
+        "p90": 9607.1,
+        "p95": 9607.1,
+        "p99": 9607.1,
+        "p999": 9607.1
+      },
+      "vusers.session_length": {
+        "min": 9702.1,
+        "max": 9900.6,
+        "count": 2,
+        "mean": 9801.3,
+        "p50": 9607.1,
+        "median": 9607.1,
+        "p75": 9607.1,
+        "p90": 9607.1,
+        "p95": 9607.1,
+        "p99": 9607.1,
+        "p999": 9607.1
+      }
+    }
+  },
+  "intermediate": [
+    {
+      "counters": {
+        "vusers.created_by_name.Brute hash attack simulation": 25,
+        "vusers.created": 25,
+        "http.requests": 25
+      },
+      "rates": {
+        "http.request_rate": 5
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1754433365251,
+      "lastCounterAt": 1754433369516,
+      "firstMetricAt": 1754433365251,
+      "lastMetricAt": 1754433369516,
+      "period": "1754433360000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Brute hash attack simulation": 25,
+        "vusers.created": 25,
+        "http.requests": 25,
+        "plugins.metrics-by-endpoint./engineering/brute-hash.errors.ETIMEDOUT": 23,
+        "errors.ETIMEDOUT": 23,
+        "vusers.failed": 23,
+        "http.codes.200": 2,
+        "http.responses": 2,
+        "http.downloaded_bytes": 148,
+        "plugins.metrics-by-endpoint./engineering/brute-hash.codes.200": 2,
+        "vusers.completed": 2
+      },
+      "rates": {
+        "http.request_rate": 5
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1754433370250,
+      "firstHistogramAt": 1754433375126,
+      "lastCounterAt": 1754433379527,
+      "lastHistogramAt": 1754433375277,
+      "firstMetricAt": 1754433370250,
+      "lastMetricAt": 1754433379527,
+      "period": "1754433370000",
+      "summaries": {
+        "http.response_time": {
+          "min": 9656,
+          "max": 9846,
+          "count": 2,
+          "mean": 9751,
+          "p50": 9607.1,
+          "median": 9607.1,
+          "p75": 9607.1,
+          "p90": 9607.1,
+          "p95": 9607.1,
+          "p99": 9607.1,
+          "p999": 9607.1
+        },
+        "plugins.metrics-by-endpoint.response_time./engineering/brute-hash": {
+          "min": 9656,
+          "max": 9846,
+          "count": 2,
+          "mean": 9751,
+          "p50": 9607.1,
+          "median": 9607.1,
+          "p75": 9607.1,
+          "p90": 9607.1,
+          "p95": 9607.1,
+          "p99": 9607.1,
+          "p999": 9607.1
+        },
+        "vusers.session_length": {
+          "min": 9702.1,
+          "max": 9900.6,
+          "count": 2,
+          "mean": 9801.3,
+          "p50": 9607.1,
+          "median": 9607.1,
+          "p75": 9607.1,
+          "p90": 9607.1,
+          "p95": 9607.1,
+          "p99": 9607.1,
+          "p999": 9607.1
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 9656,
+          "max": 9846,
+          "count": 2,
+          "mean": 9751,
+          "p50": 9607.1,
+          "median": 9607.1,
+          "p75": 9607.1,
+          "p90": 9607.1,
+          "p95": 9607.1,
+          "p99": 9607.1,
+          "p999": 9607.1
+        },
+        "plugins.metrics-by-endpoint.response_time./engineering/brute-hash": {
+          "min": 9656,
+          "max": 9846,
+          "count": 2,
+          "mean": 9751,
+          "p50": 9607.1,
+          "median": 9607.1,
+          "p75": 9607.1,
+          "p90": 9607.1,
+          "p95": 9607.1,
+          "p99": 9607.1,
+          "p999": 9607.1
+        },
+        "vusers.session_length": {
+          "min": 9702.1,
+          "max": 9900.6,
+          "count": 2,
+          "mean": 9801.3,
+          "p50": 9607.1,
+          "median": 9607.1,
+          "p75": 9607.1,
+          "p90": 9607.1,
+          "p95": 9607.1,
+          "p99": 9607.1,
+          "p999": 9607.1
+        }
+      }
+    },
+    {
+      "counters": {
+        "plugins.metrics-by-endpoint./engineering/brute-hash.errors.ETIMEDOUT": 25,
+        "errors.ETIMEDOUT": 25,
+        "vusers.failed": 25
+      },
+      "rates": {},
+      "firstCounterAt": 1754433380262,
+      "lastCounterAt": 1754433384521,
+      "firstMetricAt": 1754433380262,
+      "lastMetricAt": 1754433384521,
+      "period": "1754433380000",
+      "summaries": {},
+      "histograms": {}
+    }
+  ]
+}
