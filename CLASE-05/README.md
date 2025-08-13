@@ -7,7 +7,7 @@
 - Aplicar y revisar en los Proyectos de ejemplo (15 min)
 
 
-* Descanso de 10 min
+* Descanso de 10 min - Volvemos a las 20:05!!!
 
 ## PARTE 2 - DOCUMENTACIÓN
 

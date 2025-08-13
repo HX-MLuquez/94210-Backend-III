@@ -2,7 +2,7 @@
 
 ## 1. Broken Access Control
 Descripción general
-Desde la quinta posición, el 94 % de las aplicaciones se analizaron para detectar algún tipo de control de acceso deficiente, con una tasa de incidencia promedio del 3,81 %, y presenta la mayor incidencia en el conjunto de datos aportado, con más de 318 000. Entre las Enumeraciones de Debilidades Comunes (CWE) más destacadas se incluyen CWE-200: Exposición de información confidencial a un agente no autorizado , CWE-201: Inserción de información confidencial en los datos enviados y CWE-352: Falsificación de solicitud entre sitios .
+Desde la quinta posición, el 94 % de las aplicaciones se analizaron para detectar algún tipo de control de acceso deficiente, con una tasa de incidencia promedio del 3,81 %, y presenta la mayor incidencia en el conjunto de datos aportado, con más de 318 000. Entre las Enumeraciones de Debilidades Comunes (CWE) más destacadas se incluyen CWE-200: Exposición de información confidencial a un agente no autorizado , CWE-201: Inserción de información confidencial en los datos enviados y CWE-352: Falsificación de solicitud entre sitios.
 
 Descripción
 El control de acceso aplica políticas que impiden a los usuarios actuar fuera de sus permisos. Las fallas suelen provocar la divulgación no autorizada de información, la modificación o la destrucción de todos los datos, o la realización de una función empresarial fuera de los límites del usuario. Las vulnerabilidades comunes del control de acceso incluyen:
